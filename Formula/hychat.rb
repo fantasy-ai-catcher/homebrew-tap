@@ -1,8 +1,8 @@
 class Hychat < Formula
   desc "Terminal chat with Supabase-backed rooms and stock quotes"
   homepage "https://github.com/fantasy-ai-catcher/hychat"
-  url "https://github.com/fantasy-ai-catcher/hychat/releases/download/v0.6.0/hychat-0.6.0.tgz"
-  sha256 "364c41fb9b79315d83e433afe33611f245e2f98942c2b0548f565bfa2c17f3a0"
+  url "https://github.com/fantasy-ai-catcher/hychat/releases/download/v0.7.0/hychat-0.7.0.tgz"
+  sha256 "e6757c9e66ef0cc3be62ea61c8f2668cc43f510441cd07848a3920a4ebac4466"
   license "MIT"
 
   depends_on "node"
